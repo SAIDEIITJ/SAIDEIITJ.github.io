@@ -137,7 +137,7 @@
   head: null
   hidden: 0
 - timestamp: 9/23/2024 11:14:08
-  emailAddress: null
+  emailAddress: bhivraj@iitj.ac.in
   name: Bhivraj Suthar
   position: Assistant Professor
   office: 1764
@@ -1184,3 +1184,33 @@
   keywords: 'physicist , neuroscientist '
   head: null
   hidden: 0
+- timestamp: 10/4/2024 17:15:25
+  emailAddress: shankarsingh@iitj.ac.in
+  name: Shankar Singh
+  position: Administrative Staff
+  office: 1752
+  Wwbsite: null
+  department: null
+  centerIDRP: null
+  profilePic: >-
+    https://drive.google.com/thumbnail?id=1XyIfUpSEly9jCjxJbxkTjT9Rvp4I2-9n&sz=w300
+  researchArea1: null
+  researchArea2: null
+  researchArea3: null
+  researchArea4: null
+  aIandEconomics: null
+  aIandEthics: null
+  aIdrivenHealth: null
+  aIforTechnology: null
+  behaviorCognitionBrain: null
+  roboticsandIntelligentMachines: null
+  smartCitiesInfraEnvironment: null
+  socialEngineering: null
+  theoreticalAIML: null
+  suggestions: null
+  blob: null
+  undefined: null
+  type: null
+  keywords: null
+  head: null
+  hidden: .nan
