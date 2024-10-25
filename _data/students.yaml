@@ -2,7 +2,7 @@
   name: Manuj Jha
   program: Ph.D.
   specialization: Mathematical and Computational Economics
-  center: null
+  center: None
   undefined: M.A. (Economics)
   researchArea: Climate Change modelling and its Macroeconomic impact
   website: null
@@ -15,7 +15,7 @@
   name: 'Shubham Kumar '
   program: Ph.D.
   specialization: Mathematical and Computational Economics
-  center: null
+  center: None
   undefined: 'MSc in Economics '
   researchArea: 'Mechanism Design, Game Theory, Social Choice Theory '
   website: null
@@ -28,7 +28,7 @@
   name: Debottam Bhunia
   program: Ph.D.
   specialization: Working towards Ph.D degree in Computational Neuroscience
-  center: null
+  center: None
   undefined: >-
     1. B.TECH: Electrical Engineering 2. M.TECH: Power Electronics & Electrical
     Drives
@@ -43,7 +43,7 @@
   name: Shreya Deb
   program: MS(R)
   specialization: 'Brain Science: Next-gen brain inspired AI'
-  center: null
+  center: CBSA
   undefined: 'B.Tech in Electrical and Electronics Engineering '
   researchArea: 'Computational and coginitive neuroscience '
   website: null
@@ -56,7 +56,7 @@
   name: Kunjesh Kamleshbhai Parekh
   program: Ph.D.
   specialization: Online PhD
-  center: null
+  center: None
   undefined: null
   researchArea: AI
   website: null
@@ -68,7 +68,7 @@
   name: N Akhila
   program: Ph.D.
   specialization: PhD
-  center: null
+  center: None
   undefined: 'M.Tech in Data Science '
   researchArea: 'Exploring Brain Dynamics using Heart-Brain coupling '
   website: null
@@ -81,7 +81,7 @@
   name: Preetam Kumar
   program: Ph.D.
   specialization: Computational Vision, Machine Learning
-  center: null
+  center: CBSA
   undefined: M.Tech Data Science and Engineering
   researchArea: Computational Vision, Machine Learning
   website: null
@@ -94,7 +94,7 @@
   name: Tirthankar Roy
   program: Ph.D.
   specialization: PhD
-  center: null
+  center: None
   undefined: >-
     BTech. (Electrical and Electronics Engineering)-SRM Institute of Science and
     Technology,Kattankulathur,Tamil Nadu MTech. (Robotics and Automation
@@ -110,7 +110,7 @@
   name: Abinaya Vairam
   program: Ph.D.
   specialization: 'Artificial Intelligence and Data Science '
-  center: null
+  center: None
   undefined: 'M.Tech Data Science and Engineering,  B.Tech Industrial Biotechnology '
   researchArea: Computational Neuroscience, Neurogenetics
   website: null
@@ -123,7 +123,7 @@
   name: Rashmi Singh
   program: Ph.D.
   specialization: ' Deep Learning and Computer Vision '
-  center: null
+  center: None
   undefined: 'M.Tech in Center for Advanced Studies Lucknow '
   researchArea: 'Medical Image Analysis '
   website: null
