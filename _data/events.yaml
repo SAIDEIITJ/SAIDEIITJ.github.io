@@ -1,1 +1,44 @@
-
+- id: null
+  undefined: null
+  name: >-
+    Sun Pharma Science Foundation National Symposium
+    on                                                                
+    &#8220;ARTIFICIAL INTELLIGENCE IN
+    HEALTHCARE&#8221;                                                                                                                                                     
+    In collaboration with                                                
+    Department of Bioscience & Bioengineering, School of AI and Data
+    Science,                                                                                 
+    and IITJ-AIIMSJ Med. Tech.
+    Centre                                                               INDIAN
+    INSTITUTE OF TECHNOLOGY, JODHPUR
+  start: 11/16/2024
+  end: 11/16/2024
+  description: >-
+    I has potential to be transformative for healthcare, particularly for a
+    country like India with a large population, inadequate number of specialists
+    and people living far from even primary healthcare facilities. However, the
+    enticing promise and potential of AI in radically improving diagnostics,
+    precision treatment and reduce hospital admin load has not delivered its
+    promises on ground. A wide gap exists between expectations of the practicing
+    doctors and what AI engineers have been able to deliver. For AI to be
+    effective the AI models for India have to be built in India on data from
+    Indian patients. Catalyzing a dialogue between scientists and doctors, is
+    the primary objective of this one-day symposium. It will bring together
+    clinicians, engineers and industry to understand where we stand in terms of
+    technology and its usage, and what are the expectations and needs to fully
+    realize AI&#8217;s potential. The symposium will also host panel discussions,
+    where questions, misgivings, and curiosity will be addressed. 
+  type: Symposium
+  banner: https://drive.google.com/open?id=1UsaRoLv41084cT3pzjY400x7LQgUJeYr
+  preset: iitj
+  tileBackground: null
+  registration: https://forms.gle/J1FMr34rVxF2y9Ns6
+  schedule: >-
+    https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MnBtYmxoNzF1MHQ5bHI5anQ5b2Q3bmIyb2MgcDIzYWkwMDA0QGlpdGouYWMuaW4&tmsrc=p23ai0004%40iitj.ac.in
+  location: Jodhpur Club Auditorium, IIT Jodhpur
+  people: >-
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vQPmtQJkT8Wenfr0ZW8kKLXqInzFDmq-HcY2mIJkkT1R8VFDtg_7kCAAaQbg4h6siHbwdzbnoPtMPqI/pub?output=csv
+  sponsors: >-
+    https://docs.google.com/spreadsheets/d/e/2PACX-1vQqx8vyQ9xgW12EkTmY6s9JFbvTGkF5CdQCx0m8FGJDfEGspyyRxWXAORK1MSH6fUm73LsTlKjSOQOf/pub?output=csv
+  contact: aiinhealthcaresymposium@gmail.com
+  hidden: .nan
