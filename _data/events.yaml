@@ -1,20 +1,14 @@
-- id: null
+- id: sunpharma2024
   undefined: null
   name: >-
-    Sun Pharma Science Foundation National Symposium
-    on                                                                
-    &#8220;ARTIFICIAL INTELLIGENCE IN
-    HEALTHCARE&#8221;                                                                                                                                                     
-    In collaboration with                                                
-    Department of Bioscience & Bioengineering, School of AI and Data
-    Science,                                                                                 
-    and IITJ-AIIMSJ Med. Tech.
-    Centre                                                               INDIAN
-    INSTITUTE OF TECHNOLOGY, JODHPUR
+    Sun Pharma Science Foundation National Symposium on &#8220;ARTIFICIAL INTELLIGENCE
+    IN HEALTHCARE&#8221;. In collaboration with  Department of Bioscience &
+    Bioengineering, School of AI and Data Science, and IITJ-AIIMSJ Med. Tech.
+    Centre, INDIAN INSTITUTE OF TECHNOLOGY, JODHPUR
   start: 11/16/2024
   end: 11/16/2024
   description: >-
-    I has potential to be transformative for healthcare, particularly for a
+    AI has potential to be transformative for healthcare, particularly for a
     country like India with a large population, inadequate number of specialists
     and people living far from even primary healthcare facilities. However, the
     enticing promise and potential of AI in radically improving diagnostics,
@@ -41,4 +35,4 @@
   sponsors: >-
     https://docs.google.com/spreadsheets/d/e/2PACX-1vQqx8vyQ9xgW12EkTmY6s9JFbvTGkF5CdQCx0m8FGJDfEGspyyRxWXAORK1MSH6fUm73LsTlKjSOQOf/pub?output=csv
   contact: aiinhealthcaresymposium@gmail.com
-  hidden: .nan
+  hidden: 0
