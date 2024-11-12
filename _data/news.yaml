@@ -7,7 +7,7 @@
   background: null
   preset: iitj
   undefined: Admissions
-  hidden: 0
+  hidden: 1
 - id: 7/19/2024 23:41:10
   title: >-
     Selected Candidates for MS by Research Program in CMCE (2024&#8211;25 Semester-I,
@@ -19,7 +19,7 @@
   background: null
   preset: infra
   undefined: Admissions
-  hidden: 0
+  hidden: 1
 - id: 7/19/2024 23:42:45
   title: Selected Candidates for Summer Internship Program 2024
   date: '2024-05-01'
@@ -29,7 +29,7 @@
   background: null
   preset: coes
   undefined: Admissions
-  hidden: 0
+  hidden: 1
 - id: 10/23/2024 17:35:03
   title: >-
     Dr. Dipanjan Roy is inducted as a fellow of the National Academy of Sciences
@@ -42,10 +42,10 @@
   background: null
   preset: brain
   undefined: Achievements
-  hidden: 0
+  hidden: 1
 - id: 11/12/2024 10:05:04
   title: >-
-    Shortlisted Candidates for the Ph.D. Program interview CMCE (SPRING -
+    Shortlisted Candidates for the Ph.D. Program interview CMCE (FALL (Sem II) -
     2024-2025)
   date: 11/12/2024
   url: null
@@ -57,8 +57,8 @@
   hidden: 0
 - id: 11/12/2024 10:09:30
   title: >-
-    Shortlisted Candidates for the Ph.D. Program interview SAIDE (SPRING -
-    2024-2025)
+    Shortlisted Candidates for the Ph.D. Program interview SAIDE (FALL (Sem II)
+    - 2024-2025)
   date: 11/12/2024
   url: null
   document: https://drive.google.com/open?id=1XQtLxfwEqZHixpaYrfBRJRHCKs95GXhf
