@@ -4,6 +4,8 @@
     Applications follow the academic cycle, with one round in May-June (for
     program start in August) and another in November-December (for program start
     in January). Please see the Admissions page under Join Us for more details.
+    You can also visit advertisements page of IIT Jodhpur
+    https://iitj.ac.in/academics/misc.php?id=advertisements
   visible: 'Yes'
 - category: Academics
   question: What is Reseach Purposal?
@@ -16,7 +18,7 @@
     is evaluated by the Student Research Committee (SRC), which allocates a
     letter grade based on the performance. Successfully completing the research
     proposal defense is a key step toward becoming a Ph.D. candidate
-  visible: null
+  visible: 'Yes'
 - category: Academics
   question: What is Teaching Assistantship ?
   answer: >-
@@ -29,7 +31,7 @@
     experience while they pursue their studies. For the continuation of the
     assistantship, M.Tech. students must maintain a minimum CGPA of 6.0, and
     Ph.D. students must maintain a CGPA of 6.5
-  visible: null
+  visible: 'Yes'
 - category: Academics
   question: >-
     What is the minimum and maximum duration to complete the M.S. by Research
@@ -76,40 +78,48 @@
   answer: null
   visible: null
 - category: Admissions
-  question: What is the eligibility for Ph.D. admission?
+  question: >-
+    What are the eligibility criteria, academic credentials, and minimal
+    requirements for candidates applying for the Ph.D at School of AI and Data
+    Science?
   answer: >-
-    Candidates must have a master's degree in engineering, science, humanities,
-    social sciences, or equivalent with at least 60% marks or a 6.0/10 CGPA.
-    Certain professional qualifications (e.g., MBBS with MD) are also accepted&#8203;
-  visible: null
+    The applicants must have a master's degree in engineering, science,
+    humanities, social sciences, or equivalent with at least 60% marks or a
+    6.0/10 CGPA. Certain professional qualifications (e.g., MBBS with MD) are
+    also accepted&#8203;   OR  The applicant must have a bachelor&#8217;s degree of minimum
+    four-year duration in engineering or science or medicine or pharmacy or
+    agricultural science or veterinary science or design or architecture or
+    equivalent with at least 70% marks or at least 7.0/10 CPI or CGPA for
+    GEN/GEN-EWS/OBC (65% for SC/ST/PD).
+  visible: 'Yes'
 - category: Admissions
   question: What is the difference between full-time and part-time Ph.D. programs?
   answer: >-
     Full-time students dedicate all their time to research, while part-time
     students are working professionals, often employed by external
     organizations, and are required to attend the program with limited credits
-  visible: null
+  visible: 'Yes'
 - category: Academics
   question: What is the comprehensive examination?
   answer: >-
     The comprehensive exam tests the student's general and specific knowledge in
     their research field. It includes written tests, and students have two
     chances to pass&#8203;
-  visible: null
+  visible: 'Yes'
 - category: Academics
   question: How many credits are required for a Ph.D.?
   answer: >-
     Ph.D. students must complete a minimum of 12 to 24 credits through
     coursework and 48 credits through thesis work, depending on their prior
     qualifications&#8203;
-  visible: null
+  visible: 'Yes'
 - category: Academics
   question: What is the comprehensive examination?
   answer: >-
     The comprehensive exam tests the student's general and specific knowledge in
     their research field. It includes written tests, and students have two
     chances to pass&#8203;
-  visible: null
+  visible: 'Yes'
 - category: Academics
   question: What is the primary focus of the M.Tech. programme in AR & VR?
   answer: >-
@@ -133,4 +143,50 @@
     It is prohibited for an M.Tech./M.Sc. student to take leave for more than 10
     consecutive days. For exceptional circumstances, DRC may grant leave beyond
     30 days in an academic year without an assistantship during that time.
+  visible: 'Yes'
+- category: Admissions
+  question: >-
+    What is the application process for applying to the Ph.D. program at the
+    School of AI and Data Science?
+  answer: >-
+    Applicants are requested to use the following link to fill and submit the
+    application form online:
+    https://erponline.iitj.ac.in/Admission/index?admiss_ch=56  Applicants are
+    required to pay the processing fee of Rs.300 for General, GEN-EWS, OBC and
+    Rs.150 for SC, ST, and PD applicants online while submitting the application
+    form. Applicants shortlisted for the written test and/or interview will be
+    required to bring the final submitted application form duly signed along
+    with a copy of all educational documents and GATE/NET(JRF)/CEED/NBHM (or
+    equivalent) score card at the time of written test and/or interview.
+  visible: 'Yes'
+- category: Academics
+  question: Which specific domains of AI are emphasized in the PhD program?
+  answer: >-
+    In order to acquire additional information on research, you may visit the
+    faculty page on our school's website (https://aide.iitj.ac.in/faculty/). 
+  visible: 'Yes'
+- category: Academics
+  question: >-
+    Are there specific research groups or labs available for prospective PhD
+    candidates to join?
+  answer: >-
+    Kindly visit our website's facilities and labs page at
+    https://aide.iitj.ac.in/labs/ to obtain further information about the
+    available research groups and laboratories.
+  visible: 'Yes'
+- category: Funding
+  question: What financial support is available for Ph.D. students?
+  answer: >-
+    Candidates admitted to Ph.D. Program (Regular) will be eligible for
+    financial assistance as per the norms of IIT Jodhpur. A candidate having
+    B.Tech./B.S. (four-year program)/Master&#8217;s degree with
+    GATE/NET(JRF)/NBHM/CEED (or equivalent) can have financial assistance as per
+    MoE norms/or equivalent applicable for non- science Departments. 
+  visible: 'Yes'
+- category: PhD
+  question: What is the maximum duration of a Ph.D. program?
+  answer: >-
+    14 registered semesters which may include maximum 6 semesters of
+    Registration kept Alive (RKA) after completion of the two semesters. Tuition
+    fee post RKA will be the same as that of sponsored candidates. 
   visible: 'Yes'
