@@ -60,7 +60,8 @@
   researchArea: AI
   undefined: null
   website: null
-  profilePhoto: null
+  profilePhoto: >-
+    https://drive.google.com/file/d/1KvN48ClnSil69YGXX88Jtkinu4F8rv1_/view?usp=sharing
   email: p23ai0003@iitj.ac.in
   hidden: 0
   alumnus: 0
@@ -487,5 +488,18 @@
   profilePhoto: >-
     https://drive.google.com/thumbnail?id=1e6Jf60hrolH0dkKb3sU1sykOVMKOZ4Lt&sz=w300
   email: p24ai0003@iitj.ac.in
+  hidden: 0
+  alumnus: 0
+- timestamp: 11/11/2024 21:41:12
+  name: Ashish Kumar
+  program: M.Tech.
+  specialization: M. Tech in AR/VR
+  center: None
+  researchArea: Artificial Intelligence, AR/VR
+  undefined: BTech
+  website: null
+  profilePhoto: >-
+    https://drive.google.com/thumbnail?id=1zFiKTOtDo6TQ7t6Dm3U-VL4Jv0kcY3PY&sz=w300
+  email: m24air003@iitj.ac.in
   hidden: 0
   alumnus: 0
