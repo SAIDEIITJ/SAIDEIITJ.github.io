@@ -24,7 +24,13 @@ permalink: /
                 {% assign event_data = site.data.events %}
                 {% for mem in event_data %}
                   {% if mem.hidden != 1 %}
-                  <div class="card Events" id="{{ mem.id }}" style="background-image: url({{ mem.tileBackground }});">
+                  <div class="card Events" id="{{ mem.id }}" style="
+			{% if mem.preset != '' %}
+				background-image: url('{{ '/images/' | append: mem.preset | append: '.png' | prepend: site.baseurl }}');
+			{% elsif mem.background != '' %}
+				background-image: url('{{ mem.background }}');
+			{% endif %}
+			  ">
                     <div class="inside">
                       {% if mem.start %}
                         <p>Date: {{ mem.start }}</p>
