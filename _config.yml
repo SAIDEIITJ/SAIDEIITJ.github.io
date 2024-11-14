@@ -45,6 +45,6 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  events:
+  event:
     output: true
     permalink: /event/:path/
