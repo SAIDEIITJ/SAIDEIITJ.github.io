@@ -441,12 +441,12 @@
     
     <div class="event-page">
         <div class="event-image" id="event-banner">
-            <p class="type">{{ page.event.type }}</p>
+            <p class="type">{{ page.type }}</p>
             <div>
-                <h1 style="color: #fff;">{{ page.event.name }}</h1>
-                <p>{{ page.event.description }}</p>
+                <h1 style="color: #fff;">{{ page.name }}</h1>
+                <p>{{ page.description }}</p>
             </div>
-            <a href="{{ page.event.registration | strip }}" target="_blank">
+            <a href="{{ page.registration | strip }}" target="_blank">
                 <div class="register">REGISTER NOW</div>
             </a>
         </div>
@@ -455,21 +455,21 @@
             <div class="details">
                 <div class="details-card">
                     <h3 class="details-card-title"><i class="fa-solid fa-location-dot"></i> Location</h3>
-                    <p class="details-card-content">{{ page.event.location }}</p>
+                    <p class="details-card-content">{{ page.location }}</p>
                 </div>
                 <div class="details-card">
                     <h3 class="details-card-title"><i class="fa-solid fa-calendar-days"></i> Date</h3>
-                    {% assign start_date_parts = page.event.start | split: '/' %}
-                    {% assign end_date_parts = page.event.end | split: '/' %}
+                    {% assign start_date_parts = page.start | split: '/' %}
+                    {% assign end_date_parts = page.end | split: '/' %}
                     {% assign formatted_start_date = start_date_parts[2] | append: "-" | append: start_date_parts[0] | append: "-" | append: start_date_parts[1] %}
                     {% assign formatted_end_date = end_date_parts[2] | append: "-" | append: end_date_parts[0] | append: "-" | append: end_date_parts[1] %}
                     
                     <p class="details-card-content">{{ formatted_start_date | date: "%B %d, %Y" }} - {{ formatted_end_date | date: "%B %d, %Y" }}</p>
                                     </div>
-                                    {% if page.event.application %}
+                                    {% if page.application %}
                                     <div class="details-card">
                                         <h3 class="details-card-title"><i class="fa-solid fa-location-dot"></i> Application details</h3>
-                                        <p class="details-card-content">{{ page.event.application }}</p>
+                                        <p class="details-card-content">{{ page.application }}</p>
                                     </div>
                                     {% endif %}
             </div>
@@ -477,17 +477,17 @@
             <h1 class="main-heading">About</h1>
             <div class="about_event">
                 <img src="https://orlandosydney.com/wp-content/uploads/2023/08/Conference-at-Darling-Harbour-Theatre-Interior-Photo%C2%B7-ICC-Sydney.-2500-seated-capacity.-Photography-By-orlandosydney.com-OS1_7156.jpg" alt="Event Image">
-                <p>{{ page.event.description }}</p>
+                <p>{{ page.description }}</p>
             </div>
     
-            {% if page.event.people %}
+            {% if page.people %}
                 <h1 class="main-heading">Speakers</h1>
                 <div id="speakers">
                     <!-- Speakers will be dynamically added here -->
                 </div>
             {% endif %}
     
-            {% if page.event.schedule %}
+            {% if page.schedule %}
                 <h1 class="main-heading">Event Schedule</h1>
                 <div class="schedule">
                     <div class="event-week">
@@ -503,14 +503,14 @@
                 </div>
             {% endif %}
     
-            {% if page.event.people %}
+            {% if page.people %}
                 <h1 class="main-heading">Organizers</h1>
                 <div id="organizers">
                     <!-- Organizers will be statically added here -->
                 </div>
             {% endif %}
     
-            {% if page.event.sponsors %}
+            {% if page.sponsors %}
                 <h1 class="main-heading">Sponsors</h1>
                 <div id="sponsors" style="display: flex; flex-direction: row; justify-content: center; margin-bottom: 20px; padding-bottom: 30px;">
                     <!-- Sponsors will be dynamically added here -->
@@ -521,10 +521,10 @@
     
     
     <script>
-        const speakersUrl = "{{ page.event.people }}";
-        const sponsorsUrl = "{{ page.event.sponsors }}";
+        const speakersUrl = "{{ page.people }}";
+        const sponsorsUrl = "{{ page.sponsors }}";
         const apiKey = 'AIzaSyASD1vvFqsUwNN6uvmQGE6ILlbNYlQd3y0 ';
-        const calendarId = '{{ page.event.schedule }}';
+        const calendarId = '{{ page.schedule }}';
     
         // Utility functions
         function getGDriveOURL(url) {
@@ -539,7 +539,7 @@
        // Function to set the background image
 function setBackgroundImage() {
     const bannerElement = document.getElementById('event-banner');
-    const bannerUrl = "{{page.event.banner}}"; // This will be dynamically set from your data
+    const bannerUrl = "{{page.banner}}"; // This will be dynamically set from your data
     const processedUrl = getGDriveOURL(bannerUrl); // Process the URL if needed
 
     // Apply background image using JavaScript
