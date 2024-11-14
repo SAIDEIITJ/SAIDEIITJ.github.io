@@ -48,3 +48,10 @@ collections:
   event:
     output: true
     permalink: /event/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "event"
+    values:
+      layout: "event"
