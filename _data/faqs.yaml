@@ -190,3 +190,9 @@
     Registration kept Alive (RKA) after completion of the two semesters. Tuition
     fee post RKA will be the same as that of sponsored candidates. 
   visible: 'Yes'
+- category: Academics
+  question: Where can I find IIT Jodhpur Academic Regulations?
+  answer: >-
+    Visit IIT Jodhpur Academic Regulations web page (
+    http://academics.iitj.ac.in/?page_id=54 ) for more details
+  visible: null
