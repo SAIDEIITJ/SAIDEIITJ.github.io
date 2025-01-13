@@ -197,7 +197,7 @@
     https://drive.google.com/thumbnail?id=19DGli3LokQi0Hee0J3wz8NWbIEgssvc_&sz=w300
   email: r23am0001@iitj.ac.in
   hidden: 1
-  alumnus: 0
+  alumnus: 1
 - timestamp: 9/9/2024 3:13:40
   name: Shreya Gupta
   program: MS(R)
@@ -514,5 +514,31 @@
   profilePhoto: >-
     https://drive.google.com/thumbnail?id=1GSo9DNkuoa67uHP6s1ZHasfRUufoTX4g&sz=w300
   email: p22ai201@iitj.ac.in
+  hidden: 0
+  alumnus: 0
+- timestamp: 1/10/2025 15:40:30
+  name: Saikat Mondal
+  program: Ph.D.
+  specialization: Data Science
+  center: None
+  researchArea: NLP, AI/ML/DL
+  undefined: M.Tech Data Science
+  website: https://www.linkedin.com/in/saikat-mondal-79209a1aa
+  profilePhoto: >-
+    https://drive.google.com/thumbnail?id=1CdRiwdumq156jmkiAxje457AVZT_BRdC&sz=w300
+  email: p24ai0202@iitj.ac.in
+  hidden: 0
+  alumnus: 0
+- timestamp: 1/10/2025 18:17:42
+  name: Jeet Agnihotri
+  program: Ph.D.
+  specialization: 'Artificial Intelligence and Data Science '
+  center: CBSA
+  researchArea: 'Machine learning and neurodevelopmental disorders '
+  undefined: M.Tech in Information Technology
+  website: https://scholar.google.com/citations?user=4tXUGksAAAAJ&hl=en
+  profilePhoto: >-
+    https://drive.google.com/thumbnail?id=14jxIEWJu1FNEWS4XfFA7gX5oTAmbviwG&sz=w300
+  email: p24ai0201@iitj.ac.in
   hidden: 0
   alumnus: 0
