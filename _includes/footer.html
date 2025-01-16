@@ -76,6 +76,24 @@
                         })();
                         </script>
                         <!-- end Google Calendar Appointment Scheduling -->
+
+                      <!-- Google Calendar Appointment Display begin -->
+                        <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+                        <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+                        <script>
+                        (function() {
+                          var target = document.currentScript;
+                          window.addEventListener('load', function() {
+                            calendar.schedulingButton.load({
+                              url: 'https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FKolkata&title=Reservation%20details&mode=WEEK&showPrint=0&showCalendars=0&showTz=0&showTabs=0&showDate=0&src=Y19mYTIyNThmZWQ2ZWQ3MWViNzlkMDVkYzFkNmE0ZjkxMTVhYzRlMDBkM2Q4MzMyZTEyOWFjOWMzYWRhMjJlYjkzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23E67C73',
+                              color: '#AD1457',
+                              label: "View Bookings",
+                              target,
+                            });
+                          });
+                        })();
+                        </script>
+                        <!-- end Google Calendar Appointment Display -->
           </div>
       </div>
 
