@@ -1,7 +1,7 @@
 - page: phd
   name: >-
     Rolling Advertisement for Admission to Ph.D. Program (Last Date :
-    20/10/2024)
+    20/04/2025)
   url: >-
     https://iitj.ac.in/assets/uploads/document/2024/03/2024-03-22-65fd209f45d5a-1711087775.pdf
 - page: phd
@@ -13,7 +13,4 @@
     https://aide.iitj.ac.in/images/new-header/Poster/Provisionally_selected_candidates_SIP%40SAIDE2024.pdf?_t=1714132530
 - page: faculty_position
   name: Rolling Advertisement for Faculty Hiring
-  url: https://oa.iitj.ac.in/Advertisement/Advertisment_31.pdf
-- page: ms
-  name: null
-  url: null
+  url: https://erponline.iitj.ac.in/Jobs/auth/facapps.htm
