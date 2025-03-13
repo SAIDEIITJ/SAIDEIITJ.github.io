@@ -126,3 +126,16 @@
   contactEmail: bikash@iitj.ac.in
   identifier: TIH-IARI
   hidden: 0
+- timestamp: null
+  title: Summer Internship Program 2025
+  fundingAgency: School of AI and Data Science
+  startDate: 5/15/2025
+  endDate: 7/15/2025
+  value: NA
+  logo: null
+  details: null
+  website: null
+  pI: null
+  contactEmail: null
+  identifier: SIP25
+  hidden: 1
