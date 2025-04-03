@@ -31,7 +31,7 @@ permalink: /admissions/
 </thead>
 <tbody id="admissions-table">
 {% assign programs_data_unsorted = site.data.programs %}
-{% assign programs_data = programs_data_unsorted | sort: "name" %}
+{% assign programs_data = programs_data_unsorted | sort: "name" | reverse %}
 {% for member in programs_data %}
 <tr>
 <td style="text-align:left">{{ member.name }}</td>
