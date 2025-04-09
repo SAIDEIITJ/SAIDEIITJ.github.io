@@ -1243,7 +1243,7 @@
   type: Core
   keywords: NA
   head: null
-  hidden: .nan
+  hidden: 0
 - timestamp: 3/19/2025 14:57:30
   emailAddress: seemasaini@iitj.ac.in
   name: Seema Saini
@@ -1273,4 +1273,190 @@
   type: Affiliated
   keywords: AI and Economics; Behavior, Cognition and the Brain; AI driven Healthcare
   head: null
-  hidden: .nan
+  hidden: 0
+- timestamp: 4/3/2025 12:46:29
+  emailAddress: puneet@iitj.ac.in
+  name: Puneet Sharma
+  position: Associate Professor
+  office: 1455
+  Wwbsite: https://sites.google.com/view/sharmapuneet/
+  department: Mathematics
+  centerIDRP: null
+  profilePic: >-
+    https://drive.google.com/thumbnail?id=1qsM0TiDmqb3A7EPHmT0YwHokw8U-xGe5&sz=w300
+  researchArea1: Dynamical Systems
+  researchArea2: Chaos Theory
+  researchArea3: Game Theory
+  researchArea4: null
+  aIandEconomics: 'Yes'
+  aIandEthics: 'No'
+  aIdrivenHealth: Somewhat
+  aIforTechnology: 'No'
+  behaviorCognitionBrain: 'Yes'
+  roboticsandIntelligentMachines: 'No'
+  smartCitiesInfraEnvironment: 'No'
+  socialEngineering: 'No'
+  theoreticalAIML: 'No'
+  suggestions: null
+  blob: >-
+    Random Number generation using chaotic systems. Studying Symbolic systems to
+    understand dynamics of general system. Analysing system to predict long term
+    behavior of the same. 
+  undefined: null
+  type: Affiliated
+  keywords: Dynamical Systems, Chaos Theory, Game Theory
+  head: null
+  hidden: 0
+- timestamp: 4/3/2025 16:12:55
+  emailAddress: skvaranasi@iitj.ac.in
+  name: Varanasi Santhosh Kumar
+  position: Assistant Professor
+  office: 1719
+  Wwbsite: null
+  department: Chemical Engineering
+  centerIDRP: null
+  profilePic: >-
+    https://drive.google.com/thumbnail?id=1wjCKyx6IpwmUVtxTq5tyymozAzYi4IYw&sz=w300
+  researchArea1: Soft sensor design
+  researchArea2: Physics informed predictive modeling
+  researchArea3: Control and Optimization
+  researchArea4: System Identification
+  aIandEconomics: 'No'
+  aIandEthics: 'No'
+  aIdrivenHealth: Somewhat
+  aIforTechnology: 'Yes'
+  behaviorCognitionBrain: 'No'
+  roboticsandIntelligentMachines: Somewhat
+  smartCitiesInfraEnvironment: 'No'
+  socialEngineering: 'No'
+  theoreticalAIML: 'Yes'
+  suggestions: null
+  blob: >-
+    <h3>Research Summary 3</h3> Increasing productivity, safety and efficiency
+    have always been the main goals of industrial plants. The objective of
+    process optimization and control is to reduce the resource wastage and
+    remove bottlenecks while simultaneously satisfying all plant constraints,
+    including operational, economic, and safety constraints.  Obtaining a model
+    that explains the behavior of system over time have significant importance.
+    With the collection of large amount of data in process industries,
+    data-driven modeling especially in the framework of machine learning is
+    gaining popularity these days. However, the data-driven modeling in
+    industrial applications suffers with bottle necks like missing data, delays,
+    outliers, and so on. Further, due to the changes in dynamics of interacting
+    processes over time, and as uncertainties creep in, plant-model mismatch may
+    arise, which must be accounted for, before utilizing such predictive models
+    in process optimization and control.  Our research group primarily focuses
+    on development of robust, adaptive and explainable predictive models for
+    soft sensing, process monitoring and control design, and in development of
+    the data driven optimization schemes for chemical processes with a specific
+    focus on processes related to carbon capture and hydrogen production.
+  undefined: null
+  type: Affiliated
+  keywords: >-
+    Machine learning; Soft sensor design; Sparse optimization; System
+    Identification; Performance monitoring and assessment; Causality analysis;
+    Model predictive control; Computer vision
+  head: null
+  hidden: 0
+- timestamp: 4/3/2025 20:33:50
+  emailAddress: rp@iitj.ac.in
+  name: P. Ravi Prakash
+  position: Assistant Professor
+  office: 1667
+  Wwbsite: null
+  department: Civil and Infrastructure Engineering
+  centerIDRP: Centre of Excellence in Intelligent Infrastructure
+  profilePic: >-
+    https://drive.google.com/thumbnail?id=170XLE1CkoE3zMns24-gXOuqii9oICop_&sz=w300
+  researchArea1: ML-driven digital twins for buildings under fire
+  researchArea2: RL applications in BIM
+  researchArea3: null
+  researchArea4: null
+  aIandEconomics: Somewhat
+  aIandEthics: 'No'
+  aIdrivenHealth: 'No'
+  aIforTechnology: 'No'
+  behaviorCognitionBrain: 'No'
+  roboticsandIntelligentMachines: 'No'
+  smartCitiesInfraEnvironment: 'Yes'
+  socialEngineering: 'No'
+  theoreticalAIML: 'No'
+  suggestions: null
+  blob: null
+  undefined: null
+  type: Affiliated
+  keywords: Structural Fire Engineering, Computational Mechanics, BIM
+  head: null
+  hidden: 0
+- timestamp: 4/4/2025 11:12:25
+  emailAddress: goravb@iitj.ac.in
+  name: Gaurav Bhatnagar
+  position: Professor
+  office: 1457
+  Wwbsite: http://home.iitj.ac.in/~goravb/
+  department: Mathematics
+  centerIDRP: null
+  profilePic: >-
+    https://drive.google.com/thumbnail?id=1IAjJHZr-b1G1C_LiOSs2pFWcGhKS6ODM&sz=w300
+  researchArea1: Fractional Transform Theory
+  researchArea2: Multimedia Security
+  researchArea3: Image Fusion
+  researchArea4: Wavelet Analysis
+  aIandEconomics: 'No'
+  aIandEthics: 'No'
+  aIdrivenHealth: 'Yes'
+  aIforTechnology: Somewhat
+  behaviorCognitionBrain: 'No'
+  roboticsandIntelligentMachines: 'No'
+  smartCitiesInfraEnvironment: Somewhat
+  socialEngineering: 'No'
+  theoreticalAIML: 'No'
+  suggestions: null
+  blob: null
+  undefined: null
+  type: Affiliated
+  keywords: >-
+    My research interests lie in the broad area of wavelet and fractional
+    transform theory, with applications in multimedia security, digital
+    watermarking and encryption techniques, hashing protocols, biometrics, image
+    analysis, segmentation and completion.
+  head: null
+  hidden: 0
+- timestamp: 4/6/2025 9:45:57
+  emailAddress: shreyab@iitj.ac.in
+  name: Shreya Banerjee
+  position: Assistant Professor
+  office: 1725
+  Wwbsite: https://sites.google.com/view/shreban/home
+  department: CETSD
+  centerIDRP: Centre of Excellence in Intelligent Infrastructure
+  profilePic: >-
+    https://drive.google.com/thumbnail?id=1lPhv1nYTSS4sPzikJys7zg8BQLjwgMSt&sz=w300
+  researchArea1: Microclimate modelling
+  researchArea2: Human heat exposure
+  researchArea3: Data driven urban decision making
+  researchArea4: Urban analytics
+  aIandEconomics: 'No'
+  aIandEthics: 'No'
+  aIdrivenHealth: Somewhat
+  aIforTechnology: Somewhat
+  behaviorCognitionBrain: 'No'
+  roboticsandIntelligentMachines: Somewhat
+  smartCitiesInfraEnvironment: 'Yes'
+  socialEngineering: Somewhat
+  theoreticalAIML: 'No'
+  suggestions: null
+  blob: >-
+    Shreya is an urban planner-architect turned climatologist with research
+    interest including the application of statistical modeling, computational
+    and sensing techniques, and data analytics to solve risks and hazards
+    associated with the environment and society focusing on extreme heat
+    mitigation, microscale climate modeling, human biometeorology, nature-based
+    solutions, informal settlements, and urban resilience.
+  undefined: null
+  type: Affiliated
+  keywords: >-
+    Microscale climate simulations, Environmental Epidemiology, Smart
+    infrastrcuture and environment
+  head: null
+  hidden: 0
