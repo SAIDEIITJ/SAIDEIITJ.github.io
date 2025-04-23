@@ -1185,27 +1185,27 @@
   position: Administrative Staff
   office: 9999
   Wwbsite: null
-  department: Artificial Intelligence and Data Science
+  department: null
   centerIDRP: null
   profilePic: >-
     https://drive.google.com/thumbnail?id=1-oMsActOEgs5bARGDkKqwOdr1ND-SAzd&sz=w300
-  researchArea1: NA
-  researchArea2: NA
-  researchArea3: NA
-  researchArea4: NA
-  aIandEconomics: 'No'
-  aIandEthics: 'No'
-  aIdrivenHealth: 'No'
-  aIforTechnology: 'No'
-  behaviorCognitionBrain: 'No'
-  roboticsandIntelligentMachines: 'No'
-  smartCitiesInfraEnvironment: 'No'
-  socialEngineering: 'No'
-  theoreticalAIML: 'No'
+  researchArea1: null
+  researchArea2: null
+  researchArea3: null
+  researchArea4: null
+  aIandEconomics: null
+  aIandEthics: null
+  aIdrivenHealth: null
+  aIforTechnology: null
+  behaviorCognitionBrain: null
+  roboticsandIntelligentMachines: null
+  smartCitiesInfraEnvironment: null
+  socialEngineering: null
+  theoreticalAIML: null
   suggestions: null
   blob: null
-  type: Core
-  keywords: NA
+  type: Administrative Staff
+  keywords: null
   head: null
   hidden: 0
 - undefined: null
