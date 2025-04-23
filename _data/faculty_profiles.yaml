@@ -1,4 +1,4 @@
-- timestamp: 9/9/2024 14:54:22
+- undefined: 0
   emailAddress: sgandhi@iitj.ac.in
   name: Saurabh Gandhi
   position: Assistant Professor
@@ -28,12 +28,11 @@
     environment? * Building dynamical models of the whole brain * Developing
     novel methods for early diagnosis of brain disorders * Building models of
     cognition
-  undefined: 0
   type: Core
   keywords: brain, network, neuroscience, eeg, cognition
   head: null
   hidden: 0
-- timestamp: 9/8/2024 19:00:21
+- undefined: 0
   emailAddress: srivatsa@iitj.ac.in
   name: S. Srivatsa Srinivas
   position: Assistant Professor
@@ -62,12 +61,11 @@
     solutions in transportation and logistics * Unravelling customers' waiting
     experience and queue-joining strategies - How to leverage customer behavior
     and design service systems? 
-  undefined: 0
   type: Core
   keywords: Operations Research, Game Theory, Service Operations, Policy Making
   head: null
   hidden: 0
-- timestamp: 9/3/2024 0:15:41
+- undefined: 0
   emailAddress: bikash@iitj.ac.in
   name: Bikash Santra
   position: Assistant Professor
@@ -98,7 +96,6 @@
     videos/images, 3) characterization of abnormalities in medical images, 4)
     genetic characterization of lesions from medical images, and  5) phenology
     and precision agriculture
-  undefined: 0
   type: Core
   keywords: >-
     Deep learning, medical imaging, machine learning, ai in healthcare,
@@ -106,7 +103,7 @@
     Precision Agriculture
   head: null
   hidden: 0
-- timestamp: 7/31/2024 12:24:21
+- undefined: 0
   emailAddress: ma@iitj.ac.in
   name: Manish Aggarwal
   position: Associate Professor
@@ -131,12 +128,11 @@
   theoreticalAIML: 'Yes'
   suggestions: null
   blob: null
-  undefined: 0
   type: Core
   keywords: null
   head: null
   hidden: 0
-- timestamp: 9/23/2024 11:14:08
+- undefined: 0
   emailAddress: bhivraj@iitj.ac.in
   name: Bhivraj Suthar
   position: Assistant Professor
@@ -176,12 +172,11 @@
     and AI technologies that have real-world impact.  Join us as we explore the
     exciting frontier of robotics and artificial intelligence, and work towards
     bringing innovative ideas to life.  Welcome to the future of robotics!
-  undefined: 0
   type: Core
   keywords: Robotics and Artificial Intelligence
   head: null
   hidden: 0
-- timestamp: 3/7/2024 5:51:01
+- undefined: 0
   emailAddress: abhinaba@iitj.ac.in
   name: Abhinaba Lahiri
   position: Assistant Professor
@@ -214,12 +209,11 @@
     as a "game". The final outcome will depend on not just their own
     announcement but the announcement of all others. This sub-field of economics
     mainly focuses on what collective goals can be achieved in these settings. 
-  undefined: 0
   type: Core
   keywords: null
   head: null
   hidden: 0
-- timestamp: 9/2/2024 11:17:51
+- undefined: 0
   emailAddress: vigneshmdharan@iitj.ac.in
   name: Vignesh Muralidharan
   position: Assistant Professor
@@ -244,12 +238,11 @@
   theoreticalAIML: 'No'
   suggestions: Maybe Brain-inspired computational modelling
   blob: null
-  undefined: 0
   type: Core
   keywords: neuroscience, brain, cognitive control, brain stimulation, eeg
   head: null
   hidden: 0
-- timestamp: 3/11/2024 9:44:19
+- undefined: 0
   emailAddress: dweepobotee@iitj.ac.in
   name: Dweepobotee Brahma
   position: Assistant Professor
@@ -280,12 +273,11 @@
     child mortality and morbidity, malnutrition, immunization, health insurance
     and health financing, digital health. I use Machine Learning techniques to
     improve targeting of public policies.
-  undefined: 0
   type: Core
   keywords: null
   head: null
   hidden: 0
-- timestamp: 3/11/2024 10:50:25
+- undefined: 0
   emailAddress: romibanerjee@iitj.ac.in
   name: Romi Banerjee
   position: Assistant Professor
@@ -317,12 +309,11 @@
     time-space continuum, spontaneous thought, contemplation) across all living
     species...  * Of late trying to study the evolutionary origins of all forms
     of art, artistic behavior, creativity, imagination and sense of aesthetics
-  undefined: 0
   type: Affiliated
   keywords: null
   head: null
   hidden: 0
-- timestamp: 3/11/2024 14:21:35
+- undefined: 0
   emailAddress: sdang@iitj.ac.in
   name: 'Shilpa Dang '
   position: Assistant Professor
@@ -347,12 +338,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: 0
   type: Core
   keywords: null
   head: null
   hidden: 0
-- timestamp: 3/13/2024 4:29:20
+- undefined: 1
   emailAddress: pyadav@iitj.ac.in
   name: Pankaj Yadav
   position: Assistant Professor
@@ -377,12 +367,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: 1
   type: Affiliated
   keywords: null
   head: null
   hidden: 1
-- timestamp: 3/16/2024 8:22:09
+- undefined: 1
   emailAddress: saran.aadhar@iitj.ac.in
   name: Saran Aadhar
   position: Assistant Professor
@@ -407,12 +396,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: 1
   type: Affiliated
   keywords: null
   head: null
   hidden: 1
-- timestamp: 3/16/2024 8:25:01
+- undefined: 1
   emailAddress: chsarma@iitj.ac.in
   name: V.V.M.S. Chandramouli
   position: Associate Professor
@@ -437,12 +425,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: 1
   type: Affiliated
   keywords: null
   head: null
   hidden: 1
-- timestamp: 3/16/2024 9:14:18
+- undefined: 1
   emailAddress: mvatsa@iitj.ac.in
   name: Mayank Vatsa
   position: Professor
@@ -467,12 +454,11 @@
   theoreticalAIML: 'Yes'
   suggestions: Generative AI; Responsible AI
   blob: null
-  undefined: 1
   type: Affiliated
   keywords: null
   head: null
   hidden: 1
-- timestamp: 3/16/2024 17:23:24
+- undefined: 0
   emailAddress: gmanjhi@iitj.ac.in
   name: Ganesh Manjhi
   position: Assistant Professor
@@ -511,12 +497,11 @@
     ***Endogenous Economic Institutions and Economic development, Political
     Economy Trilemma.  ###Additional Thrust Areas:  *Growth Economics, Applied
     Econometrics and Forecasting. 
-  undefined: 0
   type: Core
   keywords: null
   head: null
   hidden: 0
-- timestamp: 3/17/2024 5:00:45
+- undefined: 0
   emailAddress: dhakas@iitj.ac.in
   name: Suman Dhaka
   position: Assistant Professor
@@ -554,12 +539,11 @@
     lifespan. Ultimately, my goal is to contribute to a deeper understanding of
     the brain and behavior, with potential implications for therapeutic
     interventions and cognitive enhancement strategies.
-  undefined: 0
   type: Affiliated
   keywords: null
   head: null
   hidden: 0
-- timestamp: 3/20/2024 7:23:35
+- undefined: 1
   emailAddress: krunalg@iitj.ac.in
   name: Krunal Gangawane
   position: Assistant Professor
@@ -614,12 +598,11 @@
     HVAC systems, photovoltaics, solar stills, solar collectors,
     thermo-regulating textiles and building heat recovery (Panda and Gangawane
     https://doi.org/10.1016/j.powtec.2022.117867).
-  undefined: 1
   type: Affiliated
   keywords: null
   head: null
   hidden: 1
-- timestamp: 3/26/2024 5:29:07
+- undefined: 0
   emailAddress: dipsankarb@iitj.ac.in
   name: Dip Sankar Banerjee
   position: Associate Professor
@@ -649,12 +632,11 @@
     data. We explore new techniques for system efficiency, high performance, and
     architectures that can support new data driven applications from broad areas
     of machine learning, data analytics, and computational sciences.
-  undefined: 0
   type: Affiliated
   keywords: null
   head: null
   hidden: 0
-- timestamp: 4/19/2024 10:43:28
+- undefined: 0
   emailAddress: ranju@iitj.ac.in
   name: Ranju Mohan
   position: Associate Professor
@@ -684,12 +666,11 @@
     demand.  The lab primarily focus on traffic flow modelling and simulation,
     accident analysis and prevention, public transport prioritization,
     transportation policy analysis,  and traffic management solutions.
-  undefined: 0
   type: Affiliated
   keywords: null
   head: null
   hidden: 0
-- timestamp: 4/19/2024 13:20:15
+- undefined: 1
   emailAddress: vivek@iitj.ac.in
   name: Vivek Vijay
   position: Associate Professor
@@ -717,12 +698,11 @@
     Our research group works on Statistical and Machine Learning Analysis of
     Financial and Healthcare Data. We use information-theoretic measures for
     analysis of heavy tailed data.
-  undefined: 1
   type: Affiliated
   keywords: null
   head: null
   hidden: 1
-- timestamp: 4/23/2024 8:28:52
+- undefined: 0
   emailAddress: nishantkumar@iitj.ac.in
   name: Nishant Kumar
   position: Assistant Professor
@@ -747,12 +727,11 @@
   theoreticalAIML: Somewhat
   suggestions: null
   blob: null
-  undefined: 0
   type: Affiliated
   keywords: null
   head: null
   hidden: 0
-- timestamp: 4/23/2024 8:40:38
+- undefined: 1
   emailAddress: vnara@iitj.ac.in
   name: V Narayanan
   position: Associate Professor
@@ -777,12 +756,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: 1
   type: Affiliated
   keywords: null
   head: null
   hidden: 1
-- timestamp: 4/23/2024 13:38:53
+- undefined: 0
   emailAddress: mdabutalha@iitj.ac.in
   name: Md Abu Talhamainuddin Ansary
   position: Assistant Professor
@@ -807,12 +785,11 @@
   theoreticalAIML: 'Yes'
   suggestions: 'Application of optimization in any field of engineering '
   blob: null
-  undefined: 0
   type: 'Affiliated '
   keywords: null
   head: null
   hidden: 0
-- timestamp: 4/23/2024 15:15:36
+- undefined: 0
   emailAddress: harshal.akolekar@iitj.ac.in
   name: Harshal Akolekar
   position: Assistant Professor
@@ -837,12 +814,11 @@
   theoreticalAIML: Somewhat
   suggestions: NA
   blob: null
-  undefined: 0
   type: Affiliated
   keywords: null
   head: null
   hidden: 0
-- timestamp: 4/23/2024 17:24:59
+- undefined: 1
   emailAddress: chhanda@iitj.ac.in
   name: Chhanda Chakraborti
   position: Professor
@@ -869,12 +845,11 @@
   theoreticalAIML: Somewhat
   suggestions: Brain, behaviour, and Philosophy of Neuroscience
   blob: null
-  undefined: 1
   type: Affiliated
   keywords: null
   head: null
   hidden: 1
-- timestamp: 4/26/2024 14:52:14
+- undefined: 0
   emailAddress: sdey@iitj.ac.in
   name: Sucharita Dey
   position: Assistant Professor
@@ -916,12 +891,11 @@
     field of &#8216;structuromics&#8217; (bridging proteomics and interactomics with
     structural data) and I foresee my research group here at IIT Jodhpur
     actively contributing to it.
-  undefined: 0
   type: Affiliated
   keywords: null
   head: null
   hidden: 0
-- timestamp: 4/27/2024 5:12:41
+- undefined: 0
   emailAddress: neeraj.jain@iitj.ac.in
   name: Neeraj Jain
   position: Professor
@@ -946,12 +920,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: 0
   type: Affiliated
   keywords: null
   head: null
   hidden: 0
-- timestamp: 4/29/2024 11:06:52
+- undefined: 1
   emailAddress: dilpreetkaur@iitj.ac.in
   name: Dilpreet Kaur
   position: Associate Professor
@@ -978,12 +951,11 @@
   blob: >-
     Mu primary research area is group theory. I am interested in exploring
     applications of groups in Machine learning and image analysis.
-  undefined: 1
   type: Affiliated
   keywords: null
   head: null
   hidden: 1
-- timestamp: 4/29/2024 12:13:41
+- undefined: 0
   emailAddress: mitali@iitj.ac.in
   name: Mitali Mukerji
   position: Professor
@@ -1016,12 +988,11 @@
     medicine through genomics. At IITJ we have set up a unique 
     transdisciplinary initiative "Ayurtech" to develop AI enabled evidence based
     solutions for Ayurveda practices for application in integrative medicine. 
-  undefined: 0
   type: Affiliated
   keywords: null
   head: null
   hidden: 0
-- timestamp: 7/25/2024 13:15:49
+- undefined: 0
   emailAddress: taranjit@iitj.ac.in
   name: 'Taranjit Kaur  '
   position: Scientific Officer
@@ -1046,12 +1017,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: 0
   type: Scientific Staff
   keywords: null
   head: null
   hidden: 0
-- timestamp: 7/25/2024 15:34:43
+- undefined: 0
   emailAddress: asif@iitj.ac.in
   name: Asif Ekbal
   position: Professor
@@ -1078,12 +1048,11 @@
     Please include Natural Language Processing and AI for Social Good as the
     themes 
   blob: null
-  undefined: 0
   type: Core
   keywords: null
   head: null
   hidden: 0
-- timestamp: 7/25/2024 17:05:54
+- undefined: 0
   emailAddress: droy@iitj.ac.in
   name: Dipanjan Roy
   position: Associate Professor
@@ -1108,12 +1077,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: 0
   type: Core
   keywords: null
   head: null
   hidden: 0
-- timestamp: 9/24/2024 12:16:20
+- undefined: 0
   emailAddress: akt@iitj.ac.in
   name: Anil Kumar Tiwari
   position: Professor
@@ -1138,12 +1106,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: 0
   type: Affiliated
   keywords: Neuroscience, Image and video processing, Healthcare devices, eeg
   head: 'yes'
   hidden: 0
-- timestamp: 9/27/2024 7:46:33
+- undefined: null
   emailAddress: sylvain.baillet@mcgill.ca
   name: Sylvain Baillet
   position: Adjunct Faculty
@@ -1179,12 +1146,11 @@
     science, sharing our data and methods freely with the global research
     community, and collaborating with industry to bring innovative brain-imaging
     technologies into real-world use.
-  undefined: null
   type: Adjunct
   keywords: 'physicist , neuroscientist '
   head: null
   hidden: 0
-- timestamp: 10/4/2024 17:15:25
+- undefined: null
   emailAddress: shankarsingh@iitj.ac.in
   name: Shankar Singh
   position: Administrative Staff
@@ -1209,15 +1175,14 @@
   theoreticalAIML: null
   suggestions: null
   blob: null
-  undefined: null
   type: Administrative Staff
   keywords: null
   head: null
   hidden: 0
-- timestamp: 2/11/2025 20:47:13
+- undefined: null
   emailAddress: kartiksharma@osstaff.iitj.ac.in
   name: Kartik Sharma
-  position: Out Sources Satff
+  position: Administrative Staff
   office: 9999
   Wwbsite: null
   department: Artificial Intelligence and Data Science
@@ -1239,12 +1204,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: null
   type: Core
   keywords: NA
   head: null
   hidden: 0
-- timestamp: 3/19/2025 14:57:30
+- undefined: null
   emailAddress: seemasaini@iitj.ac.in
   name: Seema Saini
   position: Assistant Professor
@@ -1269,12 +1233,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: '  '
-  undefined: null
   type: Affiliated
   keywords: AI and Economics; Behavior, Cognition and the Brain; AI driven Healthcare
   head: null
   hidden: 0
-- timestamp: 4/3/2025 12:46:29
+- undefined: null
   emailAddress: puneet@iitj.ac.in
   name: Puneet Sharma
   position: Associate Professor
@@ -1302,12 +1265,11 @@
     Random Number generation using chaotic systems. Studying Symbolic systems to
     understand dynamics of general system. Analysing system to predict long term
     behavior of the same. 
-  undefined: null
   type: Affiliated
   keywords: Dynamical Systems, Chaos Theory, Game Theory
   head: null
   hidden: 0
-- timestamp: 4/3/2025 16:12:55
+- undefined: null
   emailAddress: skvaranasi@iitj.ac.in
   name: Varanasi Santhosh Kumar
   position: Assistant Professor
@@ -1350,7 +1312,6 @@
     soft sensing, process monitoring and control design, and in development of
     the data driven optimization schemes for chemical processes with a specific
     focus on processes related to carbon capture and hydrogen production.
-  undefined: null
   type: Affiliated
   keywords: >-
     Machine learning; Soft sensor design; Sparse optimization; System
@@ -1358,7 +1319,7 @@
     Model predictive control; Computer vision
   head: null
   hidden: 0
-- timestamp: 4/3/2025 20:33:50
+- undefined: null
   emailAddress: rp@iitj.ac.in
   name: P. Ravi Prakash
   position: Assistant Professor
@@ -1383,12 +1344,11 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: null
   type: Affiliated
   keywords: Structural Fire Engineering, Computational Mechanics, BIM
   head: null
   hidden: 0
-- timestamp: 4/4/2025 11:12:25
+- undefined: null
   emailAddress: goravb@iitj.ac.in
   name: Gaurav Bhatnagar
   position: Professor
@@ -1413,7 +1373,6 @@
   theoreticalAIML: 'No'
   suggestions: null
   blob: null
-  undefined: null
   type: Affiliated
   keywords: >-
     My research interests lie in the broad area of wavelet and fractional
@@ -1422,7 +1381,7 @@
     analysis, segmentation and completion.
   head: null
   hidden: 0
-- timestamp: 4/6/2025 9:45:57
+- undefined: null
   emailAddress: shreyab@iitj.ac.in
   name: Shreya Banerjee
   position: Assistant Professor
@@ -1453,14 +1412,13 @@
     associated with the environment and society focusing on extreme heat
     mitigation, microscale climate modeling, human biometeorology, nature-based
     solutions, informal settlements, and urban resilience.
-  undefined: null
   type: Affiliated
   keywords: >-
     Microscale climate simulations, Environmental Epidemiology, Smart
     infrastrcuture and environment
   head: null
   hidden: 0
-- timestamp: 4/9/2025 17:03:56
+- undefined: null
   emailAddress: anujkapoor@iitj.ac.in
   name: Anuj Pal Kapoor
   position: Assistant Professor
@@ -1491,14 +1449,13 @@
     experimental methods with interdisciplinary approaches to uncover how
     sensory marketing and neurocognitive responses shape cross model
     interactions and consumption patterns.
-  undefined: null
   type: Affiliated
   keywords: >-
     Consumer Behavior, Neuro-Marketing, Design Aesthetics and Multi Sensory
     Marketing
   head: null
   hidden: 0
-- timestamp: 4/9/2025 19:42:20
+- undefined: null
   emailAddress: somitra@iitj.ac.in
   name: Somitra Sanadhya
   position: Professor
@@ -1523,12 +1480,11 @@
   theoreticalAIML: Somewhat
   suggestions: null
   blob: null
-  undefined: null
   type: Affiliated
   keywords: Cryptography, Cyber Security
   head: null
   hidden: 0
-- timestamp: 4/10/2025 19:15:24
+- undefined: null
   emailAddress: debasis@iitj.ac.in
   name: Debasis Das
   position: Associate Professor
@@ -1573,8 +1529,53 @@
     pursuing their thesis. He has also supervised more than 30 M.E./M.Tech.
     Thesis. He is a senior member of IEEE and VTS and a professional member of
     ACM.
-  undefined: null
   type: Affiliated
   keywords: Intelligent transportation systems (ITS) and Urban Computing
   head: null
   hidden: 0
+- undefined: null
+  emailAddress: krishna@iitj.ac.in
+  name: Krishna Kumar Balaraman
+  position: Associate Professor
+  office: 1815
+  Wwbsite: null
+  department: Management and Entrepreneurship
+  centerIDRP: Center for Technology Foresight and Policy
+  profilePic: >-
+    https://drive.google.com/thumbnail?id=1MVcQqkHjy4ut6UETpK746ParEVaEvT9D&sz=w300
+  researchArea1: Microfoundations of Foresight
+  researchArea2: Microfoundations of Institutions
+  researchArea3: 'AI , organizations, and Future of Work '
+  researchArea4: Anticipatory Governance and Sustaainbility
+  aIandEconomics: 'Yes'
+  aIandEthics: Somewhat
+  aIdrivenHealth: Somewhat
+  aIforTechnology: 'Yes'
+  behaviorCognitionBrain: Somewhat
+  roboticsandIntelligentMachines: 'No'
+  smartCitiesInfraEnvironment: Somewhat
+  socialEngineering: Somewhat
+  theoreticalAIML: 'No'
+  suggestions: 'AI and Strategic Forsight '
+  blob: >-
+    Dr. Krishna Kumar Balaraman is an Associate Professor at the School of
+    Management and Entrepreneurship (SME) at the Indian Institute of Technology
+    (IIT) Jodhpur. He specializes in the Strategic and Public Policy area and is
+    affiliated with IIT Jodhpur's Center for Technology Foresight and Policy.
+    His research and teaching interests encompass strategic foresight,
+    Institutions, microfoundations of strategic capabilities, AI strategies,
+    governance, public policy, international business, entrepreneurship,
+    behavioral strategy, and Indian Knowledge System. He earned his Ph.D. from
+    IIT Madras, focusing on strategic foresight and alliances. He also holds an
+    MBA (PGSEM) from the Indian Institute of Management Bangalore, a Post
+    Graduate Diploma in Intellectual Property Rights from the National Law
+    School of India University, and is a B.E. in Computer Science and
+    Engineering from the University of Madras. Before transitioning to academia,
+    Dr. Balaraman has over two decades of international leadership experience in
+    developing products and solutions in advanced technologies.   
+  type: Affiliated
+  keywords: >-
+    Technology and Strategic Foresight ; AI Strategies and Decision making;
+    Business Models ; Policy; Governance
+  head: null
+  hidden: .nan
