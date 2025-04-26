@@ -20,13 +20,13 @@
 - page: phd
   name: Apply now!
   url: https://erponline.iitj.ac.in/Admission/index?admiss_ch=56
-- page: admissions
-  name: >-
-    SHORLISTED CANDIDATES FOR ADMISSION INTERVIEW FOR PHD ADMISSION at Centre
-    for Mathematical and Computational Economics (SAIDE)
-  url: https://drive.google.com/file/d/1hGdhPvlPifQX3GR-GiYvL9N-klnyxjT1/view
-- page: admissions
+- page: phd
   name: >-
     SHORLISTED CANDIDATES FOR ADMISSION TEST AND/OR INTERVIEW FOR PHD ADMISSION
     IN THE SCHOOL OF ARTIFICIAL INTELLIGENCE & DATA SCIENCE (SAIDE)
   url: https://drive.google.com/file/d/1dqANchGGxE76G_khqpKJxAZbjeVcM3Hv/view
+- page: phd
+  name: >-
+    SHORLISTED CANDIDATES FOR ADMISSION INTERVIEW FOR PHD ADMISSION at Centre
+    for Mathematical and Computational Economics (SAIDE)
+  url: https://drive.google.com/file/d/1hGdhPvlPifQX3GR-GiYvL9N-klnyxjT1/view
