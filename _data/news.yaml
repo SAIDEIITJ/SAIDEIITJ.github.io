@@ -79,7 +79,7 @@
     https://drive.google.com/thumbnail?id=1hi9r6iExqhzpKaAsoTzDVG3R_YGfOPpr&sz=w300
   preset: null
   undefined: Seminar
-  hidden: 0
+  hidden: 1
 - id: 12/18/2024 14:51:34
   title: >-
     List of provisionally selected candidates for PhD admission for Academic
@@ -139,7 +139,7 @@
   background: null
   preset: iitj
   undefined: Admissions
-  hidden: 0
+  hidden: 1
 - id: 4/26/2025 11:29:39
   title: >-
     SHORLISTED CANDIDATES FOR   ADMISSION INTERVIEW FOR PHD ADMISSION at Centre
@@ -151,7 +151,7 @@
   background: null
   preset: iitj
   undefined: Admissions
-  hidden: 0
+  hidden: 1
 - id: 4/30/2025 5:30:17
   title: 'Syllabus for Written Test for PhD Admission 2025 '
   date: 4/30/2025
@@ -170,6 +170,30 @@
   date: 6/2/2025
   url: null
   document: https://drive.google.com/open?id=1SHUUbsl5HSUI0SbKbpTumYD-CiukpOLg
+  media: null
+  background: null
+  preset: iitj
+  undefined: Admissions
+  hidden: 0
+- id: 6/4/2025 16:01:41
+  title: >-
+    LIST OF PROVISIONALLY CANDIDATES SHORTLISTED FOR PH.D. ADMISSIONS AY
+    2025-26, (SEMESTER-JULY 2025) (AIDE), SCHOOL OF AIDE, IIT JODHPUR
+  date: 6/4/2025
+  url: null
+  document: https://drive.google.com/open?id=13LOOx28AOSCzVwcjmBP19kPhGOWKP00h
+  media: null
+  background: null
+  preset: iitj
+  undefined: Admissions
+  hidden: 0
+- id: 6/4/2025 16:02:22
+  title: >-
+    LIST OF PROVISIONALLY CANDIDATES SHORTLISTED FOR PH.D. ADMISSIONS AY
+    2025-26, (SEMESTER-JULY 2025) (CMCE), SCHOOL OF AIDE, IIT JODHPUR
+  date: 6/4/2025
+  url: null
+  document: https://drive.google.com/open?id=12sqMfAtU_KJS89IfPA24KJ3kLsHzVJpm
   media: null
   background: null
   preset: iitj
